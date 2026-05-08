@@ -87,7 +87,7 @@ SELECT * FROM Orders;
 -- 11) Calculate the total revenue generated from all orders:
    select sum(total_amount) as total_revenue from orders;
 
--- Advance Questions : 
+-- Advance Queries : 
 
 -- 1) Retrieve the total number of books sold for each genre:
 
