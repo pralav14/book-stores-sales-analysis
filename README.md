@@ -1,8 +1,8 @@
 # 📚 Book Store SQL Analysis Project
 
 ## 🚀 Project Overview
-This project is based on a Book Store Database where SQL is used to analyze sales, customers, revenue, and inventory data.  
-The main goal of this project is to solve real-world business problems using SQL queries and database concepts.
+This project analyzes bookstore sales data using SQL.
+It includes joins, window functions, ranking functions, and sales analysis queries.
 
 The project focuses on:
 - Sales Analysis
@@ -75,7 +75,19 @@ Contains order transaction details such as:
 - INNER JOIN
 - LEFT JOIN
 - DISTINCT
-- Subqueries
+
+- ## Advanced SQL Concepts Used
+
+- JOINS
+- GROUP BY
+- SUBQUERIES
+- WINDOW FUNCTIONS
+- RANK()
+- DENSE_RANK()
+- ROW_NUMBER()
+- LEAD()
+- LAG()
+- AGGREGATE FUNCTIONS
 
 ---
 
@@ -90,6 +102,10 @@ Through this project, I improved my understanding of:
 - Writing Complex SQL Queries
 
 ---
+
+## ER Diagram
+
+![ER Diagram](bookstore_er_diagram.png)
 
 
 ---
