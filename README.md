@@ -91,12 +91,5 @@ Through this project, I improved my understanding of:
 
 ---
 
-# 📈 Future Improvements
-
-- Add Power BI Dashboard
-- Create Interactive Reports
-- Implement Stored Procedures
-- Add Window Functions
-- Optimize Queries using Indexing
 
 ---
